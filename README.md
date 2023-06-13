@@ -22,7 +22,8 @@ Salah satu fitur kunci Focalboard adalah kemampuannya untuk berkolaborasi. Pengg
 
 Jika ingin mendownload Focalboard untuk platform Windows klik [link berikut ini](https://www.focalboard.com/download/personal-edition/desktop/)!
 
-## Cara Penggunaan tool Focalboard
+## Cara Penggunaan tool Focalboard\
+
 ### 1.	Instalasi Focalboard di Windows
 
 Kita dapat mendownload *tool* Focalboard dengan Microsoft Store melalui [link](https://www.focalboard.com/download/personal-edition/desktop/) yang disematkan sebelumnya. Selanjutnya, kita pilih download untuk windows. Dan selanjutnya kita dapat memilih download menggunakan microsoft store atau melalui Github. Disini saya mendownload Focalboard melalui Microsoft Store.
@@ -54,4 +55,52 @@ Setelah memilih opsi yang diinginkan, Anda akan diarahkan ke proyek baru Anda de
 
 <p align="center">
   <img src="focalboard/3.png" alt="Sublime's custom image"> <br>
+  Halaman Create Board
+</p>
+
+### 3. Mengedit Title Board dan Menambahkan Tugas
+
+Berikut di bawah ini merupakan tampilan Card Project yang akan kita edit sesuai kebutuhan kita.
+
+<p align="center">
+  <img src="focalboard/5.png" alt="Sublime's custom image"> <br>
+  Halaman Card Project
+</p>
+
+Kita dapat mengubah tiap Card dengan memilih Card tersebut dan kita dapat langsung mengubah judul, memberikan beberapa keterangan seperti prioritas, status maupun durasi pekerjaan.
+
+### 4. Memindahkan Status Project Sesuai dengan Kategori Berjalannya Project
+
+Kita dapat melakukan drag and drop Card Project sesuai dengan progres yang sedang berjalan.
+
+<p align="center">
+  <img src="focalboard/8.png" alt="Sublime's custom image"> <br>
+</p>
+
+Seperti pada gambar diatas awalnya status project ialah "Not Started". Jika user sudah mulai mengerjakan project maka dapat memindahkan status project menjadi "In Progress" seerti pada gambar dibawah. Selain itu user juga dapat memindahkan status project menjadi blocked, complete, dan archived.
+
+<p align="center">
+  <img src="focalboard/9.png" alt="Sublime's custom image"> <br>
+</p>
+
+### 5. Mengubah Tampilan Penyajian Progress Project
+
+Dalam focalboard kita juga dapat mengubah tampilan penyajian dalam bentuk Board, Table, Gallery, and Calendar dengan memilih opsi kategori sesuai yang kita inginkan.
+
+<p align="center">
+  <img src="focalboard/6.png" alt="Sublime's custom image"> <br>
+</p>
+
+### 6. Membagikan Task
+
+Untuk melakukan kolaborasi ataupun membagikan progres suatu proyek yang telah kita buat kita dapat menekan tombol "**Share**" yang terletak pada pojok kanan atas.
+
+<p align="center">
+  <img src="focalboard/8.png" alt="Sublime's custom image"> <br>
+</p>
+
+Dengan memilih opsi "Share", akan muncul sebuah Link Sharing yang dapat kita bagikan kepada orang lain dan orang lain dapat melihat progres proyek yang kita bagikan.
+
+<p align="center">
+  <img src="focalboard/7.png" alt="Sublime's custom image"> <br>
 </p>
